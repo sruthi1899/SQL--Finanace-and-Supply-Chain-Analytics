@@ -47,7 +47,6 @@ Top Customers
 
 Top Markets for a given fiscal year
 
-Track forecast accuracy in supply chain analytics for the fiscal year.
 
 
 
